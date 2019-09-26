@@ -1,10 +1,10 @@
 class Person
   def name=(persons_name)
-    @person_name = persons_name
+    @name = persons_name
   end 
   
   def name
-    @person_name 
+    @name
   end
   
   def job=(jobs)
