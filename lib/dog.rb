@@ -3,4 +3,9 @@ class Dog
     @dog = dog_name
   end
   
+  def name
+    @dog
+  end
+  
+  
 end 
